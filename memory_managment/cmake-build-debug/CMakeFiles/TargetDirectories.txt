@@ -1,0 +1,3 @@
+/home/elias/memory_managment/cmake-build-debug/CMakeFiles/memory_managment.dir
+/home/elias/memory_managment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elias/memory_managment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
